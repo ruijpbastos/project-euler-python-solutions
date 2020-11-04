@@ -1,0 +1,6 @@
+- [ ] Identify multiples of any number **k**
+- [ ] List all multiples of any number **k** below a number **n**
+- [ ] Identify multiples of either of two numbers **k1** and **k2**
+- [ ] List all multiples of either of two numbers **k1** and **k2** below a number **n**
+- [ ] Sum a list of numbers
+- [ ] Get sum of all multiples of either of two numbers **k1** and **k2** below a number **n**
